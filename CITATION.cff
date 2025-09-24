@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "EDA Student Habits and Academic Performance Analysis"
+message: "If you use this project, please cite it as below."
+authors:
+  - family-names: "Modak"
+    given-names: "Umang"
+date-released: 2025-09-24
+url: "https://github.com/UmangModak/EDA_Student-Habits-and-Academic-Performance-Analysis"
